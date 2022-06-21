@@ -71,5 +71,3 @@ bars5m
 bars30m
 
 bars1h
-
-nbconvert — to script TimeframeResample.ipynb
